@@ -1,0 +1,9 @@
+# Ignorar pastas do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivo específico
+followers_and_following
